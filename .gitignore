@@ -1,2 +1,4 @@
 *.png
 .Rproj.user/*
+.Rhistory
+midas1.Rproj
