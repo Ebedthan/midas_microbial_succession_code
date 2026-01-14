@@ -1,0 +1,27 @@
+{
+    "id": "D422FEEE",
+    "path": "~/Documents/midas1/analysis.R",
+    "project_path": "analysis.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1766486404457.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "820,5",
+        "scrollLine": "808"
+    },
+    "folds": "5|58|56|0|\n58|105|77|0|\n",
+    "lastKnownWriteTime": 1768397050,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1768397050128,
+    "read_only": false,
+    "read_only_alternatives": []
+}

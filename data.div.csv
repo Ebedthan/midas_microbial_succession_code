@@ -1,0 +1,181 @@
+"","categorie","estimate","value"
+"1","[1-10]","amf_richness",54
+"2","[1-10]","amf_shannon",18.6365881106962
+"3","[1-10]","amf_simpson",13.8724801878668
+"4","[1-10]","bacterial_richness",956
+"5","[1-10]","bacterial_shannon",489.857250448264
+"6","[1-10]","bacterial_simpson",173.536619719779
+"7","[11-20]","amf_richness",52
+"8","[11-20]","amf_shannon",5.79069494554564
+"9","[11-20]","amf_simpson",2.86647439759372
+"10","[11-20]","bacterial_richness",619
+"11","[11-20]","bacterial_shannon",296.826863819053
+"12","[11-20]","bacterial_simpson",111.028630947176
+"13","[21-30]","amf_richness",43
+"14","[21-30]","amf_shannon",6.68729843463716
+"15","[21-30]","amf_simpson",3.09592863269602
+"16","[21-30]","bacterial_richness",762
+"17","[21-30]","bacterial_shannon",309.360471751079
+"18","[21-30]","bacterial_simpson",72.3559161705784
+"19","OGF","amf_richness",45
+"20","OGF","amf_shannon",14.7248210299499
+"21","OGF","amf_simpson",8.17769635894881
+"22","OGF","bacterial_richness",643
+"23","OGF","bacterial_shannon",298.402998758954
+"24","OGF","bacterial_simpson",86.6429408667406
+"25","[30 <[","amf_richness",67
+"26","[30 <[","amf_shannon",27.3229787912172
+"27","[30 <[","amf_simpson",19.5028166646625
+"28","[30 <[","bacterial_richness",721
+"29","[30 <[","bacterial_shannon",286.301778396696
+"30","[30 <[","bacterial_simpson",67.869624289171
+"31","[21-30]","amf_richness",86
+"32","[21-30]","amf_shannon",30.8717982323758
+"33","[21-30]","amf_simpson",19.4852507878917
+"34","[21-30]","bacterial_richness",787
+"35","[21-30]","bacterial_shannon",454.525697337481
+"36","[21-30]","bacterial_simpson",245.022660507544
+"37","OGF","amf_richness",79
+"38","OGF","amf_shannon",13.0687081354811
+"39","OGF","amf_simpson",5.42691629960342
+"40","OGF","bacterial_richness",1000
+"41","OGF","bacterial_shannon",640.561978115438
+"42","OGF","bacterial_simpson",397.526285266782
+"43","[11-20]","amf_richness",11
+"44","[11-20]","amf_shannon",2.93833829455523
+"45","[11-20]","amf_simpson",2.20632738231848
+"46","[11-20]","bacterial_richness",782
+"47","[11-20]","bacterial_shannon",400.836454216038
+"48","[11-20]","bacterial_simpson",130.542039911335
+"49","[1-10]","amf_richness",5
+"50","[1-10]","amf_shannon",2.17637640824031
+"51","[1-10]","amf_simpson",1.53846153846154
+"52","[1-10]","bacterial_richness",748
+"53","[1-10]","bacterial_shannon",498.662180399944
+"54","[1-10]","bacterial_simpson",329.73242120035
+"55","[30 <[","amf_richness",65
+"56","[30 <[","amf_shannon",14.2699244758027
+"57","[30 <[","amf_simpson",7.03980012814809
+"58","[30 <[","bacterial_richness",1050
+"59","[30 <[","bacterial_shannon",668.445833459545
+"60","[30 <[","bacterial_simpson",426.58931257046
+"61","[30 <[","amf_richness",49
+"62","[30 <[","amf_shannon",11.1105332266742
+"63","[30 <[","amf_simpson",7.26388658241762
+"64","[30 <[","bacterial_richness",811
+"65","[30 <[","bacterial_shannon",361.99643709913
+"66","[30 <[","bacterial_simpson",131.569794381876
+"67","[21-30]","amf_richness",40
+"68","[21-30]","amf_shannon",9.63478969634214
+"69","[21-30]","amf_simpson",6.69331501067342
+"70","[21-30]","bacterial_richness",497
+"71","[21-30]","bacterial_shannon",234.238685122783
+"72","[21-30]","bacterial_simpson",99.2327276721476
+"73","OGF","amf_richness",39
+"74","OGF","amf_shannon",6.92551359955476
+"75","OGF","amf_simpson",4.41394101904757
+"76","OGF","bacterial_richness",675
+"77","OGF","bacterial_shannon",200.211128802264
+"78","OGF","bacterial_simpson",49.7560104030988
+"79","[11-20]","amf_richness",54
+"80","[11-20]","amf_shannon",5.34818123937765
+"81","[11-20]","amf_simpson",2.6856051861442
+"82","[11-20]","bacterial_richness",772
+"83","[11-20]","bacterial_shannon",425.420311308765
+"84","[11-20]","bacterial_simpson",218.039826092062
+"85","OGF","amf_richness",21
+"86","OGF","amf_shannon",5.57717935336901
+"87","OGF","amf_simpson",5.03733107005288
+"88","OGF","bacterial_richness",887
+"89","OGF","bacterial_shannon",466.074714778164
+"90","OGF","bacterial_simpson",163.98040574143
+"91","OGF","amf_richness",64
+"92","OGF","amf_shannon",20.5218008210294
+"93","OGF","amf_simpson",14.1217855749419
+"94","OGF","bacterial_richness",605
+"95","OGF","bacterial_shannon",353.670375791711
+"96","OGF","bacterial_simpson",196.392178979117
+"97","[21-30]","amf_richness",34
+"98","[21-30]","amf_shannon",12.2428028057511
+"99","[21-30]","amf_simpson",8.03919026193375
+"100","[21-30]","bacterial_richness",686
+"101","[21-30]","bacterial_shannon",321.308544269908
+"102","[21-30]","bacterial_simpson",122.375523892166
+"103","[30 <[","amf_richness",57
+"104","[30 <[","amf_shannon",16.40026584808
+"105","[30 <[","amf_simpson",10.3521636465701
+"106","[30 <[","bacterial_richness",673
+"107","[30 <[","bacterial_shannon",364.39229827722
+"108","[30 <[","bacterial_simpson",194.63345841551
+"109","[11-20]","amf_richness",53
+"110","[11-20]","amf_shannon",9.00980112267717
+"111","[11-20]","amf_simpson",4.53038145673893
+"112","[11-20]","bacterial_richness",660
+"113","[11-20]","bacterial_shannon",425.412526434704
+"114","[11-20]","bacterial_simpson",270.188843916194
+"115","[1-10]","amf_richness",49
+"116","[1-10]","amf_shannon",10.2343395645255
+"117","[1-10]","amf_simpson",6.9604711727642
+"118","[1-10]","bacterial_richness",795
+"119","[1-10]","bacterial_shannon",452.443878245092
+"120","[1-10]","bacterial_simpson",234.217455559666
+"121","[11-20]","amf_richness",39
+"122","[11-20]","amf_shannon",16.3982948601444
+"123","[11-20]","amf_simpson",11.5527015830099
+"124","[11-20]","bacterial_richness",580
+"125","[11-20]","bacterial_shannon",382.073158726404
+"126","[11-20]","bacterial_simpson",268.706157844489
+"127","[30 <[","amf_richness",46
+"128","[30 <[","amf_shannon",12.7144652127865
+"129","[30 <[","amf_simpson",9.92915628695244
+"130","[30 <[","bacterial_richness",815
+"131","[30 <[","bacterial_shannon",323.527194910054
+"132","[30 <[","bacterial_simpson",78.9091825257225
+"133","[21-30]","amf_richness",60
+"134","[21-30]","amf_shannon",13.6546241974012
+"135","[21-30]","amf_simpson",5.97001071675234
+"136","[21-30]","bacterial_richness",698
+"137","[21-30]","bacterial_shannon",397.702459830182
+"138","[21-30]","bacterial_simpson",205.239647224072
+"139","[1-10]","amf_richness",62
+"140","[1-10]","amf_shannon",7.08263950765263
+"141","[1-10]","amf_simpson",3.60786171532187
+"142","[1-10]","bacterial_richness",689
+"143","[1-10]","bacterial_shannon",394.501237484628
+"144","[1-10]","bacterial_simpson",211.015793079106
+"145","OGF","amf_richness",11
+"146","OGF","amf_shannon",2.49761778735855
+"147","OGF","amf_simpson",2.15441551775012
+"148","OGF","bacterial_richness",980
+"149","OGF","bacterial_shannon",591.888827010685
+"150","OGF","bacterial_simpson",328.6225841882
+"151","[1-10]","amf_richness",43
+"152","[1-10]","amf_shannon",17.4310995586979
+"153","[1-10]","amf_simpson",10.2702823346876
+"154","[1-10]","bacterial_richness",576
+"155","[1-10]","bacterial_shannon",260.522803757686
+"156","[1-10]","bacterial_simpson",103.343306792701
+"157","[11-20]","amf_richness",60
+"158","[11-20]","amf_shannon",10.4742269977548
+"159","[11-20]","amf_simpson",6.58695939561185
+"160","[11-20]","bacterial_richness",654
+"161","[11-20]","bacterial_shannon",202.246519817896
+"162","[11-20]","bacterial_simpson",73.0458480272369
+"163","[21-30]","amf_richness",53
+"164","[21-30]","amf_shannon",16.1806437288731
+"165","[21-30]","amf_simpson",8.60650013943059
+"166","[21-30]","bacterial_richness",828
+"167","[21-30]","bacterial_shannon",444.209840371952
+"168","[21-30]","bacterial_simpson",208.345577507173
+"169","[30 <[","amf_richness",69
+"170","[30 <[","amf_shannon",12.810634191723
+"171","[30 <[","amf_simpson",7.62142344218702
+"172","[30 <[","bacterial_richness",674
+"173","[30 <[","bacterial_shannon",341.895506172955
+"174","[30 <[","bacterial_simpson",158.394563137295
+"175","OGF","amf_richness",70
+"176","OGF","amf_shannon",15.1470520057618
+"177","OGF","amf_simpson",6.50767325976796
+"178","OGF","bacterial_richness",517
+"179","OGF","bacterial_shannon",318.999799208772
+"180","OGF","bacterial_simpson",135.71132080402
