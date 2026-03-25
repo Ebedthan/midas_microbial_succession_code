@@ -1,0 +1,61 @@
+"","sample","forest","categorie","age","guild","richness"
+"1","BAD_1_1","Badenou","[1-10]",1,"Bacteria",956
+"2","BAD_1_1","Badenou","[1-10]",1,"AMF",54
+"3","BAD_14_2","Badenou","[11-20]",12,"Bacteria",619
+"4","BAD_14_2","Badenou","[11-20]",12,"AMF",52
+"5","BAD_18_1","Badenou","[21-30]",21,"Bacteria",762
+"6","BAD_18_1","Badenou","[21-30]",21,"AMF",43
+"7","BAD_3_1","Badenou","OGF",NA,"Bacteria",643
+"8","BAD_3_1","Badenou","OGF",NA,"AMF",45
+"9","BAD_8_1","Badenou","[30 <[",38,"Bacteria",721
+"10","BAD_8_1","Badenou","[30 <[",38,"AMF",67
+"11","FOUM_14_2","Foumbou","[21-30]",29,"Bacteria",787
+"12","FOUM_14_2","Foumbou","[21-30]",29,"AMF",86
+"13","FOUM_17_2","Foumbou","OGF",NA,"Bacteria",1000
+"14","FOUM_17_2","Foumbou","OGF",NA,"AMF",79
+"15","FOUM_3_1","Foumbou","[11-20]",11,"Bacteria",782
+"16","FOUM_3_1","Foumbou","[11-20]",11,"AMF",11
+"17","FOUM_7_2","Foumbou","[1-10]",8,"Bacteria",748
+"18","FOUM_7_2","Foumbou","[1-10]",8,"AMF",5
+"19","FOUM_8_2","Foumbou","[30 <[",39,"Bacteria",1050
+"20","FOUM_8_2","Foumbou","[30 <[",39,"AMF",65
+"21","HS_16_2","Ht_sassandra","[30 <[",40,"Bacteria",811
+"22","HS_16_2","Ht_sassandra","[30 <[",40,"AMF",49
+"23","HS_18_2","Ht_sassandra","[21-30]",26,"Bacteria",497
+"24","HS_18_2","Ht_sassandra","[21-30]",26,"AMF",40
+"25","HS_3_1","Ht_sassandra","OGF",NA,"Bacteria",675
+"26","HS_3_1","Ht_sassandra","OGF",NA,"AMF",39
+"27","HS_7_1","Ht_sassandra","[11-20]",17,"Bacteria",772
+"28","HS_7_1","Ht_sassandra","[11-20]",17,"AMF",54
+"29","HS_FA_2_2","Ht_sassandra","OGF",NA,"Bacteria",887
+"30","HS_FA_2_2","Ht_sassandra","OGF",NA,"AMF",21
+"31","IR_10_2","Irobo","OGF",NA,"Bacteria",605
+"32","IR_10_2","Irobo","OGF",NA,"AMF",64
+"33","IR_13_1","Irobo","[21-30]",23,"Bacteria",686
+"34","IR_13_1","Irobo","[21-30]",23,"AMF",34
+"35","IR_17_1","Irobo","[30 <[",35,"Bacteria",673
+"36","IR_17_1","Irobo","[30 <[",35,"AMF",57
+"37","IR_4_2","Irobo","[11-20]",20,"Bacteria",660
+"38","IR_4_2","Irobo","[11-20]",20,"AMF",53
+"39","IR_7_1","Irobo","[1-10]",4,"Bacteria",795
+"40","IR_7_1","Irobo","[1-10]",4,"AMF",49
+"41","NI_13_2","Niegre","[11-20]",19,"Bacteria",580
+"42","NI_13_2","Niegre","[11-20]",19,"AMF",39
+"43","NI_16_2","Niegre","[30 <[",35,"Bacteria",815
+"44","NI_16_2","Niegre","[30 <[",35,"AMF",46
+"45","NI_19_1","Niegre","[21-30]",26,"Bacteria",698
+"46","NI_19_1","Niegre","[21-30]",26,"AMF",60
+"47","NI_3_1","Niegre","[1-10]",10,"Bacteria",689
+"48","NI_3_1","Niegre","[1-10]",10,"AMF",62
+"49","NI_7_2","Niegre","OGF",NA,"Bacteria",980
+"50","NI_7_2","Niegre","OGF",NA,"AMF",11
+"51","TE_1_10_1_2","Tene","[1-10]",3,"Bacteria",576
+"52","TE_1_10_1_2","Tene","[1-10]",3,"AMF",43
+"53","TE_11_20_1_2","Tene","[11-20]",12,"Bacteria",654
+"54","TE_11_20_1_2","Tene","[11-20]",12,"AMF",60
+"55","TE_21_30_1_1","Tene","[21-30]",21,"Bacteria",828
+"56","TE_21_30_1_1","Tene","[21-30]",21,"AMF",53
+"57","TE_6_43_1","Tene","[30 <[",43,"Bacteria",674
+"58","TE_6_43_1","Tene","[30 <[",43,"AMF",69
+"59","TE_FA_1_1","Tene","OGF",NA,"Bacteria",517
+"60","TE_FA_1_1","Tene","OGF",NA,"AMF",70

@@ -2,3 +2,7 @@
 .Rproj.user/*
 .Rhistory
 midas1.Rproj
+.Rproj.user
+03_models
+04_figures
+05_results
