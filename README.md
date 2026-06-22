@@ -172,7 +172,7 @@ If you use this code or data, please cite the associated manuscript:
 ## Contact
 
 - **Anicet E. T. Ebou** - ediman.ebou@inphb.ci  
-  Equipe Bioinformatique et Biostatistiques,
+  Equipe Bioinformatique et Biostatistiques,  
   Laboratoire de Microbiologie, Biotechnologie et Bioinformatique,  
   Institut National Polytechnique Félix Houphouët-Boigny, Yamoussoukro,
   Côte d'Ivoire
