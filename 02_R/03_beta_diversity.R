@@ -15,9 +15,9 @@ dir.create("04_figures", showWarnings = FALSE)
 dir.create("05_results", showWarnings = FALSE)
 
 # Step 0. Load data and ASV tables
-data <- read.csv("data.csv")
-asv.bact <- read.csv("asv_table.csv", row.names = 1, check.names = FALSE)
-asv.amf <- read.csv("amf_table.csv", row.names = 1, check.names = FALSE)
+data <- read.csv(here::here("01_data", "data.csv"))
+asv.bact <- read.csv(here::here("01_data", "asv_table.csv"), row.names = 1, check.names = FALSE)
+asv.amf <- read.csv(here::here("01_data", "amf_table.csv"), row.names = 1, check.names = FALSE)
 
 asv.bact <- t(asv.bact)
 asv.amf <- t(asv.amf)

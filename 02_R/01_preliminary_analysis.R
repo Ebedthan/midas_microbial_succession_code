@@ -1,3 +1,10 @@
+# =============================================================================
+# Microbial secondary succession West African post-forest landscapes
+# Author: Anicet Ebou, ediman dot ebou at inphb dot ci
+# Tested on Ubuntu Linux 22.04
+# My personal lib for this project
+# =============================================================================
+
 # loading my custom fns
 source(here::here("02_R/mylib.R"))
 
@@ -15,7 +22,7 @@ data <- read.csv(here::here("01_data/div.csv"), row.names = 1) |>
 # a simple fn to fit models
 fit_div_model <- function(guild_name, df) {
   d <- df |> dplyr::filter(guild == guild_name)
-  
+
   bf_joint <- brms::bf(
     richness ~ is_ogf * thinf +
       (1 - is_ogf) * (th0 + (thinf - th0) * (1 - exp(-lam * age))),
@@ -24,14 +31,14 @@ fit_div_model <- function(guild_name, df) {
     lam ~ 1,
     nl = TRUE
   )
-  
+
   priors <- c(
     brms::prior(normal(600, 200), nlpar = "th0", lb = 0),
     brms::prior(normal(800, 200), nlpar = "thinf", lb = 0),
     brms::prior(normal(0.1, 0.1), nlpar = "lam", lb = 0),
     brms::prior(normal(0, 1), class = "sigma")
   )
-  
+
   brms::brm(
     formula = bf_joint,
     data = d,
